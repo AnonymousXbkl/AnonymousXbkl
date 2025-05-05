@@ -1,6 +1,6 @@
 ## Learning By Doing 🔥
 
-![Suwandi Ramadhan](img/github-header-image.png)
+![Suwandi Ramadhan](img/github-header-image-2.png)
 
 - 💼 I’m currently working as **IT Implementator**
 - 🐍 I’m currently learning **Python Programming for AI** more geared towards NLP
@@ -32,4 +32,4 @@
 
 #### My Github Stats
 
-![AnonymousXbkl's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnonymousXbkl&hide_rank=true&show_icons=true&theme=tokyonight))
+![AnonymousXbkl's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnonymousXbkl&hide_rank=true&show_icons=true&theme=tokyonight)

@@ -13,7 +13,7 @@
 
 #### The Skill That I'm Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,py,sklearn,tensorflow&theme=light)](https://skillicons.dev)
 <br>
 
 #### Skills Creative

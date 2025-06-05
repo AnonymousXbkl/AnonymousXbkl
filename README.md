@@ -25,13 +25,13 @@
 
 <p align="left">
   <a href="http://www.linkedin.com/in/suwandi-ramadhan-81a1b3126">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="https://www.instagram.com/suwandi_ramadhan?igsh=MXRnYXd4czZ2a293aA==">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
   <a href="Dicordapp.com/users/454404363218059264">
-    <img src="https://skillicons.dev/icons?i=discord" />
+    <img src="https://skillicons.dev/icons?i=discord"/>
   </a>
 </p>
 
